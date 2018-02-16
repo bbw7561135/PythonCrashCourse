@@ -1,3 +1,4 @@
+== This fork is a port to python3 of the orinal python2 project ==
 # PythonCrashCourse
 A quick introduction to Python for Scientists and Engineers
 ## Why Python?
